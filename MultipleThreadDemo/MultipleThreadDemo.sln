@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleThreadDemo", "MultipleThreadDemo\MultipleThreadDemo.csproj", "{CAD11B7F-E8FE-4239-92F2-0F304B4FFE7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskDemo", "TaskDemo\TaskDemo.csproj", "{3015AA27-E389-4919-B556-4F1F7C2D8F59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CAD11B7F-E8FE-4239-92F2-0F304B4FFE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAD11B7F-E8FE-4239-92F2-0F304B4FFE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAD11B7F-E8FE-4239-92F2-0F304B4FFE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3015AA27-E389-4919-B556-4F1F7C2D8F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3015AA27-E389-4919-B556-4F1F7C2D8F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3015AA27-E389-4919-B556-4F1F7C2D8F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3015AA27-E389-4919-B556-4F1F7C2D8F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
